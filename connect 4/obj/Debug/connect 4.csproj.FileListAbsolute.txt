@@ -1,0 +1,31 @@
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\bin\Debug\connect 4.exe.config
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\bin\Debug\connect 4.exe
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\bin\Debug\connect 4.pdb
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect 4.csprojResolveAssemblyReference.cache
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect_4.Form1.resources
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect_4.Properties.Resources.resources
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect 4.csproj.GenerateResource.Cache
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect 4.exe
+c:\users\kurs.systempro\documents\visual studio 2017\Projects\connect 4\connect 4\obj\Debug\connect 4.pdb
+F:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.exe.config
+F:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.exe
+F:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.pdb
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.AssemblyReference.cache
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.SuggestedBindingRedirects.cache
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect_4.Form1.resources
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect_4.Properties.Resources.resources
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.GenerateResource.cache
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.CoreCompileInputs.cache
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.exe
+F:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.pdb
+E:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.exe.config
+E:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.exe
+E:\Projekti\connect 4\connect 4\connect 4\bin\Debug\connect 4.pdb
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.AssemblyReference.cache
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.exe.config
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect_4.Form1.resources
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect_4.Properties.Resources.resources
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.GenerateResource.cache
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.csproj.CoreCompileInputs.cache
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.exe
+E:\Projekti\connect 4\connect 4\connect 4\obj\Debug\connect 4.pdb
